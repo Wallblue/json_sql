@@ -1,2 +1,6 @@
 .idea/
 .venv/
+parser.out
+parsetab.py
+__pycache__/
+todo.txt
