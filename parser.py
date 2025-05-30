@@ -19,10 +19,15 @@ def p_scalar_value(p):
     p[0] = p[1]
 
 # Comparison operands definition
-def p_comparison_operand(p):
-    """comparison_operand : EQUALS
-                          | LOWER
-                          | GREATER"""
+def p_scalar_comparison_operand(p):
+    """scalar_comparison_operand : EQUALS
+                                 | LOWER
+                                 | GREATER"""
+    p[0] = p[1]
+
+def p_array_comparison_operand(p):
+    """array_comparison_operand : EQUALS
+                                | IN"""
     p[0] = p[1]
 
 # Value list format definition : 1 identifier or several comma-separated
@@ -39,7 +44,7 @@ def p_array(p):
     """array : LBRACKET value_list RBRACKET"""
     p[0] = p[2]
 
-# Field list format definition : 1 identifier or several comma-separated
+# List formats definitions
 def p_field_list(p):
     """field_list : IDENTIFIER
                   | field_list COMMA IDENTIFIER"""
@@ -73,20 +78,19 @@ def p_or_condition_list(p):
     else:
         p[0] = p[1] + [p[3]]
 
-# Condition format identifier
-def p_scalar_condition(p):
-    """scalar_condition : IDENTIFIER comparison_operand scalar_value"""
-    p[0] = (p[1], p[2], p[3])
-
-def p_array_condition(p):
-    """array_condition : IDENTIFIER EQUALS array
-                       | IDENTIFIER IN array"""
-    p[0] = (p[1], p[2], p[3])
-
+# Condition format definitions
 def p_condition(p):
     """condition : scalar_condition
                  | array_condition"""
     p[0] = p[1]
+
+def p_scalar_condition(p):
+    """scalar_condition : IDENTIFIER scalar_comparison_operand scalar_value"""
+    p[0] = (p[1], p[2], p[3], 'SCALAR')
+
+def p_array_condition(p):
+    """array_condition : IDENTIFIER array_comparison_operand array"""
+    p[0] = (p[1], p[2], p[3], 'ARRAY')
 
 # Error if the request doesn't fit the query format
 def p_error(p):

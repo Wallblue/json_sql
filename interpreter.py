@@ -37,7 +37,7 @@ def check_and_conditions(record, and_conditions):
     return True
 
 def check_condition(record, condition):
-    identifier, op, value = condition
+    identifier, op, value, cond_type = condition
     true_value = record.get(identifier, None)
     match op:
         case '=':
@@ -46,5 +46,8 @@ def check_condition(record, condition):
             return value > true_value
         case '<':
             return value < true_value
-
+        case '=':
+            return value == true_value
+        case 'IN':
+            return true_value in value
     return False
