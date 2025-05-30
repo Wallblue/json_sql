@@ -1,0 +1,358 @@
+[ {
+  "title" : "La Maison Elysée",
+  "categories" : [ "Arts & Culture" ],
+  "shortDescription" : "Située juste en face du palais de l’Elysée, La Maison Elysée vous invite à découvrir les coulisses de l’Elysée ainsi que le meilleur de l’artisanat, des savoir-faire et de la pâtisserie française dans un charmant salon de thé.",
+  "address" : "88 rue du Faubourg Saint-Honoré",
+  "zipcode" : "75008",
+  "city" : "Paris",
+  "webSite" : "https://www.elysee.fr/maison-elysee",
+  "availabilities" : "Du 01/01 au 31⁄12 de 10h à 19h.\nFermé lundi et dimanche.\nFermetures exceptionnelles les 1er mai et 15 août.\nVisites guidées gratuites pour les adultes du mardi au vendredi. Ces visites sont accessibles sur réservation.",
+  "prices" : "Gratuit"
+}, {
+  "title" : "Quai de la Photo",
+  "categories" : [ "Arts & Culture", "Évènements" ],
+  "shortDescription" : "Quai de la Photo est un centre d’art flottant consacré à la photographie contemporaine. Expositions, restauration, explorations : une belle profondeur de champ des possibles pour ce nouveau lieu hybride qui rejoint l’album des incontournables.",
+  "address" : "Berges de Seine – Rive gauche",
+  "zipcode" : "75013",
+  "city" : "Paris",
+  "phoneNumber" : "+33 (0)7 66 43 01 18",
+  "webSite" : "https://quaidelaphoto.fr/",
+  "availabilities" : "Toute l'année, tous les jours de 12h à 0h.\nÉté :\nDe mai à octobre. Tous les jours, à partir de midi jusqu’à 1h du dimanche au mercredi et jusqu’à 2h du jeudi au samedi.\nHiver :\nDu mercredi au dimanche, à partir de midi jusqu’à minuit minimum (2h du matin maximum).",
+  "prices" : "Gratuit"
+}, {
+  "title" : "Le Petit Prince. L'odyssée immersive",
+  "categories" : [ "Arts & Culture", "Évènements" ],
+  "shortDescription" : "Dès le 11 avril 2025, l’Atelier des Lumières à Paris vous invite à une aventure immersive inoubliable avec l’exposition « Le Petit Prince ». Cette expérience unique redonne vie au chef-d’œuvre intemporel d’Antoine de Saint-Exupéry.",
+  "zipcode" : "75011",
+  "city" : "Paris",
+  "phoneNumber" : "+33 (0)1 80 98 46 02",
+  "webSite" : "http://www.atelier-lumieres.com/",
+  "availabilities" : "Du 11⁄04 au 06/07/2025, tous les jours.\nLe 11 avril : de 14h à 20h\nDu 12 au 27 avril : tous les jours de 10h à 20h\nDu 28 avril au 6 juillet : du mardi au vendredi de 10h à 18h, les samedis de 10h à 21h.",
+  "prices" : "Plein tarif : 18 €, Tarif réduit : 16 €, Forfait famille : 13 € (Le tarif famille est accessible pour 2 adultes et 2 jeunes de 3 à 25 ans inclus, sur présentation d'un justificatif.).\nGratuit pour les moins de 3 ans.\nL'Atelier des Enfants : L'accès est inclus dans le prix du billet, pour aller plus loin dans l'expérience des plus petits.\nPrestation en français uniquement."
+}, {
+  "title" : "Grandeur Nature. L'esprit de la forêt",
+  "categories" : [ "Arts & Culture" ],
+  "shortDescription" : "Grandeur Nature est une exposition d'art contemporain réunissant plusieurs artistes français et internationaux. Devenue biennale, elle s’étend en 2025 à l’ensemble du domaine, s’aventurant jusque dans la forêt et dans la ville de Fontainebleau.",
+  "address" : "Château de Fontainebleau",
+  "zipcode" : "77300",
+  "city" : "Fontainebleau",
+  "phoneNumber" : "01 60 71 59 13",
+  "webSite" : "https://www.chateaudefontainebleau.fr/",
+  "availabilities" : "Du 25⁄05 au 21/09/2025, tous les jours de 9h à 19h.",
+  "prices" : "Gratuit"
+}, {
+  "title" : "Foire du Trône",
+  "categories" : [ "Évènements" ],
+  "shortDescription" : "Des manèges, des rires, des frissons et des gourmandises, la Foire du Trône revient à Paris du 4 avril au 9 juin 2025.",
+  "address" : "Pelouse de Reuilly",
+  "zipcode" : "75012",
+  "city" : "Paris",
+  "webSite" : "http://www.foiredutrone.com/",
+  "availabilities" : "Du 04/04 au 09/06/2025\nOuverture le lundi, mardi, mercredi et jeudi de 12h à 23h. Le vendredi, samedi et dimanche de 12h à 1h. Le dimanche de 12h à 0h."
+}, {
+  "title" : "Théâtre équestre Zingaro",
+  "categories" : [ "Arts & Culture", "Évènements" ],
+  "shortDescription" : "Un lieu de création de spectacles originaux autour de la relation homme/cheval. Toute la poésie de Bartabas à découvrir dans un ballet équestre hors du commun.",
+  "address" : "176 avenue Jean Jaurès",
+  "zipcode" : "93300",
+  "city" : "Aubervilliers",
+  "phoneNumber" : "01 48 39 18 03",
+  "webSite" : "https://www.bartabas.fr/zingaro/",
+  "availabilities" : "Toute l'année.",
+  "prices" : "Les tarifs varient en fonction des spectacles proposés.\nSe reporter à la rubrique \"Agenda\" où vous retrouverez toutes les informations sur les spectacles."
+}, {
+  "title" : "A la Reine Astrid",
+  "categories" : [ "Gastronomie" ],
+  "shortDescription" : "Chocolatier depuis de nombreuses années, la Reine Astrid achète ses propres fèves pour les torréfier à Paris Region, avant d'en faire du chocolat.",
+  "address" : "92, Boulevard Aristide Briand",
+  "zipcode" : "91600",
+  "city" : "Savigny-sur-Orge",
+  "phoneNumber" : "01 69 24 00 30",
+  "webSite" : "https://reineastrid.com/fr/home",
+  "availabilities" : "Toute l'année, tous les mardis, mercredis, jeudis, vendredis et samedis.\nDe 10h00 à 13h00 et de 14h00 à 19h00."
+}, {
+  "title" : "Stohrer",
+  "categories" : [ "Gastronomie" ],
+  "shortDescription" : "Au cœur de Paris, dans la bouillonnante rue Montorgueil, poussez la porte de la doyenne des pâtisseries parisiennes. Une véritable institution gourmande !",
+  "address" : "51, rue Montorgueil",
+  "zipcode" : "75002",
+  "city" : "Paris",
+  "phoneNumber" : "01 42 33 38 20",
+  "webSite" : "https://www.stohrer.fr/",
+  "availabilities" : "Toute l'année de 8h à 20h30.\nFermeture à 20h le dimanche."
+}, {
+  "title" : "Chapon et la chocolaterie de Meaux",
+  "categories" : [ "Shopping", "Gastronomie" ],
+  "shortDescription" : "Le savoir-faire d'un maître-chocolatier au pied de la cathédrale Saint-Étienne, en plein centre de Meaux.",
+  "address" : "7 Rue du Général Leclerc",
+  "zipcode" : "77100",
+  "city" : "Meaux",
+  "phoneNumber" : "01 60 44 01 81",
+  "webSite" : "https://chapon.com/",
+  "availabilities" : "Toute l'année. Tous les jours\nOuverture le mardi, mercredi, jeudi, vendredi et samedi de 10h à 19h. Le dimanche de 10h à 13h.\nFermé le lundi."
+}, {
+  "title" : "Le Chocolat des Français",
+  "categories" : [ "Gastronomie" ],
+  "shortDescription" : "Élaboré en France par la crème de la crème des chocolatiers, Le chocolat des Français associe gourmandise de haute volée et créativité débridée !",
+  "address" : "39 avenue de l'Opera",
+  "zipcode" : "75002",
+  "city" : "Paris",
+  "webSite" : "https://www.lechocolatdesfrancais.fr/fr/",
+  "availabilities" : "Toute l'année. Tous les jours de 11h à 19h30.\nFermé le lundi."
+}, {
+  "title" : "Boulangerie Michalak",
+  "categories" : [ "Gastronomie" ],
+  "shortDescription" : "Christophe Michalak ouvre sa première boulangerie au cœur de Paris. A vous croissant bretzel, brioche feuilletée et cookies délicieux !",
+  "address" : "60, rue du Faubourg Poissonnière",
+  "zipcode" : "75010",
+  "city" : "Paris",
+  "webSite" : "https://www.boulangeriekopain.com/",
+  "availabilities" : "Toute l'année. Tous les jours de 8h à 20h.\nFermé lundi et dimanche.\nLe Samedi : 8h30 - 19h."
+}, {
+  "title" : "O' Chalet",
+  "categories" : [ "Gastronomie" ],
+  "shortDescription" : "Découvrez \"O' Chalet\", restaurant traditionnel à Éragny-sur-Oise. Pour un moment de détente, un repas affaire ou tout autre événement, le bonheur est au bord de l'eau…",
+  "address" : "55 Bis Chemin de Halage",
+  "zipcode" : "95610",
+  "city" : "Éragny",
+  "phoneNumber" : "01 34 66 02 51",
+  "availabilities" : "Ouvert tous les jours\nOuverture le mercredi, jeudi, vendredi, samedi et dimanche de 12h à 14h. Le mercredi, jeudi, vendredi et samedi de 12h à 14h et de 19h30 à 22h.\nSauf lundi et mardi.\nFermeture annuelle en août.",
+  "prices" : "Menu adulte : 15 € (Formule du midi en semaine)\nMenu enfant (10 ans) : 12 €."
+}, {
+  "title" : "La Guinguette de l'Ile du Martin-Pêcheur",
+  "categories" : [ "Fête", "Gastronomie" ],
+  "shortDescription" : "La Marne, une île cachée par les peupliers, une passerelle, voilà où se niche cette guinguette dont l'animation ravira fêtards comme gastronomes !",
+  "address" : "41 quai Victor Hugo",
+  "zipcode" : "94500",
+  "city" : "Champigny-sur-Marne",
+  "phoneNumber" : "07 86 46 12 79",
+  "webSite" : "https://www.laguingz.com/",
+  "availabilities" : "Du 10⁄07 au 01/11. Fermé lundi et mardi. Ouvert du mercredi au dimanche de 18h à minuit et de 12h à minuit les week-end."
+}, {
+  "title" : "Le Village Tomohiro",
+  "categories" : [ "Gastronomie" ],
+  "shortDescription" : "Le chef Tomohiro Uido et Nadine ouvre leur premier restaurant dans l’ouest de Paris Region. Subtil équilibre entre cuisine asiatique et gastronomie française.",
+  "address" : "3 grande rue",
+  "zipcode" : "78160",
+  "city" : "Marly-le-Roi",
+  "phoneNumber" : "01 39 16 28 14",
+  "webSite" : "http://restaurant-levillage.fr/",
+  "availabilities" : "Ouvert tous les jours sauf le lundi.\nLe restaurant est ouvert tous les jours sauf samedi midi, dimanche soir et lundi toute la journée. Le restaurant est fermé le dernier dimanche de chaque mois.",
+  "prices" : "Menu Affaire (2 plats - uniquement du mardi au vendredi) : 40€\nMenu Passion : 52€\nMenu Omakase : 115 € (Menu composé de dix services)."
+}, {
+  "title" : "Mosuke",
+  "categories" : [ "Gastronomie" ],
+  "shortDescription" : "Mosuke est la nouvelle table tendance où l’on retrouve une cuisine africaine sublimée par des inspirations japonaises et françaises.",
+  "address" : "11 Rue Raymond Losserand",
+  "zipcode" : "75014",
+  "city" : "Paris",
+  "webSite" : "https://mosuke-restaurant.com/",
+  "availabilities" : "Toute l'année. Tous les jours.\nFermé lundi et dimanche.\n12h15 à 14h00 et de 19h30 à 21h00.",
+  "prices" : "Menu adulte : de 60 à 130 €."
+}, {
+  "title" : "Marché Notre-Dame",
+  "categories" : [ "Balades", "Gastronomie" ],
+  "shortDescription" : "Au cœur de la ville royale de Versailles, à quelques pas de son célèbre château, plongez dans l'effervescence d'un marché historique où saveurs et traditions se rencontrent.",
+  "zipcode" : "78000",
+  "city" : "Versailles",
+  "availabilities" : "Toute l'année, tous les jours.\nHalles Notre-Dame :\nDu Mardi au Samedi de 7h à 19h30\nDimanche de 7h à 14h.\n \nCarrés Notre-Dame :\nMardi, vendredi et dimanche matin de 7h à 14h."
+}, {
+  "title" : "Au-dessus, sur l’étagère du haut",
+  "categories" : [ "Gastronomie" ],
+  "shortDescription" : "Cette confiturière crée et fabrique des confitures artisanales et des sorbets maison aux mélanges inattendus, sans conservateur, ni colorant.",
+  "address" : "31, Rue des Grouettes",
+  "zipcode" : "91820",
+  "city" : "Boutigny-sur-Essonne",
+  "phoneNumber" : "06 70 47 67 09",
+  "webSite" : "http://www.surletagereduhaut.fr/"
+}, {
+  "title" : "Cueillette de la ferme de Viltain",
+  "shortDescription" : "Le potager géant (50 hectares) de la Ferme de Viltain vous ouvre ses portes pour une cueillette de fruits, légumes et fleurs en libre-service. Des produits locaux bons et sains à savourer en toute saison et un marché ouvert toute l'année.",
+  "address" : "Chemin de Viltain",
+  "zipcode" : "78350",
+  "city" : "Jouy-en-Josas",
+  "phoneNumber" : "01 69 41 22 23",
+  "webSite" : "https://www.cueillettedeviltain.fr/",
+  "availabilities" : "Du 01/04 au 15⁄11, tous les jours.",
+  "prices" : "Gratuit"
+}, {
+  "title" : "École des arts culinaires Lenôtre",
+  "categories" : [ "Gastronomie" ],
+  "shortDescription" : "Aiguisez vos couteaux et sortez votre plus beau tablier. Lenôtre accueille les amateurs passionnés de gastronomie dans son école des arts culinaires à quelques pas du marché de Rungis. Pâtisseries et menus saisonniers sont au programme des ateliers.",
+  "address" : "9 rue de Villeneuve",
+  "zipcode" : "94150",
+  "city" : "Rungis",
+  "webSite" : "https://www.ecole-lenotre.com/",
+  "availabilities" : "Toute l'année, tous les jours."
+}, {
+  "title" : ".Kate Lee",
+  "categories" : [ "Shopping" ],
+  "shortDescription" : "Direction le Marais pour du shopping de luxe éthique. Nichée dans la rue des Gravilliers, la boutique fondée par la designer Catherine Lee propose des sacs et accessoires en cuir upcyclé, dignes des grandes maisons de couture.",
+  "address" : "16 rue des Gravilliers",
+  "zipcode" : "75003",
+  "city" : "Paris",
+  "phoneNumber" : "01 48 04 57 72",
+  "webSite" : "https://katelee.fr/",
+  "availabilities" : "Toute l'année. Du lundi au vendredi : 10h00-19h00 Samedi et dimanche : 12h00-19h00."
+}, {
+  "title" : "Marques Avenue",
+  "categories" : [ "Shopping" ],
+  "shortDescription" : "Mango, IKKS, Comptoir des cotonniers, Levi’s… Marques Avenue est un véritable repère de bonnes affaires, avec des réductions de 30% à 70% sur les collections des années précédentes.",
+  "address" : "9 quai du Châtelier",
+  "zipcode" : "93450",
+  "city" : "L'Île-Saint-Denis",
+  "phoneNumber" : "01 42 43 70 20",
+  "webSite" : "https://www.marquesavenue.com/ile-saint-denis/",
+  "availabilities" : "Toute l'année. Tous les jours de 10h à 20h. Fermé le dimanche.",
+  "prices" : "Gratuit"
+}, {
+  "title" : "Artazart",
+  "categories" : [ "Shopping", "Insolite" ],
+  "shortDescription" : "Sur les bords du canal Saint-Martin, Artazart design bookstore à tout pour plaire aux adeptes d’art et aux curieux. Une sélection unique d’art graphique qui va nourrir votre créativité !",
+  "address" : "83 quai de Valmy",
+  "zipcode" : "75010",
+  "city" : "Paris",
+  "phoneNumber" : "01 40 40 24 00",
+  "webSite" : "https://artazart.com/",
+  "availabilities" : "Toute l'année.\nFermetures exceptionnelles les 1er janvier, 1er mai et 25 décembre.\nLundi au vendredi : 10h30 à 19h30\nSamedi : 11h à 19h30\nDimanche : 11h30 à 19h30."
+}, {
+  "title" : "Didier Ludot",
+  "categories" : [ "Shopping" ],
+  "shortDescription" : "Les robes de haute couture et les accessoires signés qu'il ressuscite dans sa boutique du Palais Royal sont de vraies pièces de collection. Une institution du vintage luxe.",
+  "address" : "24 Galerie de Montpensier",
+  "zipcode" : "75001",
+  "city" : "Paris",
+  "phoneNumber" : "+33 (0) 1 42 96 06 56",
+  "webSite" : "https://iddefemmes.home.blog/2022/03/01/la-petite-robe-noire-une-legende-mise-aux-encheres/",
+  "availabilities" : "Toute l'année. Tous les jours de 10h30 à 19h. Fermé le dimanche."
+}, {
+  "title" : "Librairie Smith & Son Paris",
+  "categories" : [ "Shopping" ],
+  "shortDescription" : "Dans le pays de Molière, la littérature anglo-saxonne trouve bien des lecteurs. La librairie Smith & Son et son annexe offrent aux Parisiens comme aux curieux de quoi assouvir leur passion débordante pour le papier et les mots. Let’s read.",
+  "address" : "248 Rue de Rivoli",
+  "zipcode" : "75001",
+  "city" : "Paris",
+  "phoneNumber" : "01 53 45 84 40",
+  "webSite" : "https://www.smithandson.com/",
+  "availabilities" : "Toute l'année de 10h à 19h30.\nDimanche : 12h30-19h."
+}, {
+  "title" : "L'Appartement Français",
+  "categories" : [ "Shopping" ],
+  "shortDescription" : "L'Appartement Français, un concept-store 100% made in France, et deux boutiques à découvrir dans le quartier du Marais à Paris.",
+  "address" : "27 rue du Bourg-Tibourg",
+  "zipcode" : "75004",
+  "city" : "Paris",
+  "phoneNumber" : "+33 (0)1 45 35 11 53",
+  "webSite" : "https://www.lappartementfrancais.fr/",
+  "availabilities" : "Toute l'année de 11h à 19h30.\nDu mardi au samedi : 11h - 19h30\nDimanche et Lundi: 13h00 - 19h00\nPause déjeuner : du mardi au samedi de 13h45 à 14h30."
+}, {
+  "title" : "Randos Vin",
+  "categories" : [ "Balades" ],
+  "shortDescription" : "Le guide Randos Vin vous invite à un voyage à la découverte de la région, de leurs vins ainsi que des femmes et des hommes qui contribuent à perpétuer ce lien entre l’homme et la nature dans les vignes.",
+  "webSite" : "https://bieres-et-brasseries.fr/",
+  "availabilities" : "Toute l'année.\nSur réservation."
+}, {
+  "title" : "Big Bus Paris",
+  "categories" : [ "Arts & Culture" ],
+  "shortDescription" : "Prenez place à bord d’un Big Bus à ciel ouvert, et laissez-vous subjuguer par la vue panoramique à 360° des plus beaux monuments de Paris qui défilent sous vos yeux.",
+  "address" : "17 quai de Grenelle",
+  "zipcode" : "75007",
+  "city" : "Paris",
+  "webSite" : "https://www.bigbustours.com/fr/paris/visites-paris-bus",
+  "availabilities" : "Toute l'année.\nPlus d'informations sur : https://www.bigbustours.com/fr/paris/informations-service.",
+  "prices" : "Gratuit pour les moins de 4 ans."
+}, {
+  "title" : "Le Huitième Pub",
+  "categories" : [ "Fête" ],
+  "shortDescription" : "Découvrez une expérience unique de convivialité et de plaisir gustatif au cœur des Clayes-sous-Bois, avec le légendaire \"Le Huitième Pub\".",
+  "address" : "8 Av. du Président John Fitzgerald Kennedy",
+  "zipcode" : "78340",
+  "city" : "Les",
+  "phoneNumber" : "01 30 68 04 20",
+  "webSite" : "https://lehuitieme-pub.com/",
+  "availabilities" : "Toute l'année. Tous les jours de 17h à 0h.\nFermé lundi et dimanche."
+}, {
+  "title" : "Black Sheep Society",
+  "categories" : [ "Fête" ],
+  "shortDescription" : "Point de rencontre international dans Paris, Black Sheep Society sait vous recevoir comme il se doit. Ambiance relax et chaleureuse garantie dans ce pub néo-zélandais de Bastille, le temps d’un soir, d’un verre ou d’un match.",
+  "address" : "15 Rue Daval",
+  "zipcode" : "75011",
+  "city" : "Paris",
+  "webSite" : "https://blacksheepsocietyparis.com/",
+  "availabilities" : "Du 01/01 au 31/12/2023 de 17h à 2h.\nFermé le lundi.\nOuvert du mardi au dimanche\nEn semaine : 17h-02h\nLe week-end : 14h-02h."
+}, {
+  "title" : "Ancienne Poste de Versailles",
+  "categories" : [ "Gastronomie" ],
+  "shortDescription" : "Et si on allait trinquer au bureau de poste ? Versailles se dévergonde et se met à l’heure alternative. Rendez-vous dans le centre-ville, à deux pas du château pour des festins de rois et des soirées festives.",
+  "address" : "3 avenue de Paris",
+  "zipcode" : "78000",
+  "city" : "Versailles",
+  "webSite" : "https://www.sept-lieux.fr/",
+  "availabilities" : "Toute l'année, tous les jours. Horaire du restaurant Les Sept Lieux : Lundi : fermé Mardi/mercredi : 11:00 - 00:00 Jeudi/vendredi: 11:00 - 02:00 Samedi : 10:00 - 02:00 Dimanche : 10:00 - 00:00."
+}, {
+  "title" : "Jardin21",
+  "categories" : [ "Insolite" ],
+  "shortDescription" : "Dés l'arrivée du printemps venez célébrer le retour des beaux jours au Jardin21 !",
+  "address" : "12/A Rue Ella Fitzgerald",
+  "zipcode" : "75019",
+  "city" : "Paris",
+  "webSite" : "https://www.jardin21.fr/",
+  "availabilities" : "Du 03/04 au 28⁄09.\nFermé lundi et mardi.\nMercredi : 12h-00h\nJeudi : 12h-02h\nVendredi : 12h-04h\nSamedi : 12h-04h\nDimanche : 12h-22h."
+}, {
+  "title" : "Le Grand Rex",
+  "shortDescription" : "Au cœur de la Ville Lumière, le Grand Rex se dresse comme un phare d'histoire et d'innovation, captivant les yeux et les esprits avec son allure majestueuse et son esprit avant-gardiste. Magie et émotions garanties.",
+  "address" : "1 Boulevard Poissonnière",
+  "zipcode" : "75002",
+  "city" : "Paris",
+  "phoneNumber" : "+ 33 (0)1 45 08 93 58",
+  "webSite" : "http://www.legrandrex.com/"
+}, {
+  "title" : "Sacré",
+  "categories" : [ "Fête" ],
+  "shortDescription" : "Idéalement situé en plein cœur de Paris, Sacré est un club électro hybride et innovant. Avec ses deux salles, sa délicieuse carte de tapas et sa scène de stand-up émergente, la boîte de nuit ravira tous les publics. Une adresse à découvrir d’urgence.",
+  "address" : "142 rue Montmartre",
+  "zipcode" : "75002",
+  "city" : "Paris",
+  "webSite" : "https://www.sacre.paris/",
+  "availabilities" : "Toute l'année de 19h à 6h.\nMercredi 22:00–03:00\njeudi 19:00–04:00\nvendredi 19:00–06:00\nsamedi 19:00–06:00."
+}, {
+  "title" : "Yoyo",
+  "categories" : [ "Fête" ],
+  "shortDescription" : "Lieu artistique total, le club du Palais de Tokyo est dédié à la jeune scène contemporaine, dans une ambiance très brute.",
+  "address" : "Palais De Tokyo, 13 Avenue du Président Wilson",
+  "zipcode" : "75016",
+  "city" : "Paris",
+  "phoneNumber" : "01 42 60 64 45",
+  "webSite" : "https://yoyo-paris.com/",
+  "availabilities" : "Toute l'année, tous les jeudis, vendredis et samedis de 23h à 5h.\nLes horaires varient selon la programmation.",
+  "prices" : "Selon la programmation."
+}, {
+  "title" : "Le Son de la Terre",
+  "categories" : [ "Fête" ],
+  "shortDescription" : "Elle est là, amarrée Quai de Montebello dans le 5e arrondissement : la péniche du Son de la Terre et son ambiance jazz. Montez à bord de cette nouvelle scène de musique live pour un concert, un verre, ou tout simplement une pause en plein air.",
+  "address" : "Port Montebello",
+  "zipcode" : "75005",
+  "city" : "Paris",
+  "webSite" : "https://www.sondelaterre.fr/",
+  "availabilities" : "Toute l'année de 17h à 0h.\nOUVERT 7⁄7\nCONCERTS DU MERCREDI AU DIMANCHE\n \nSamedi et dimanche : ouverture à 13h00.",
+  "prices" : "Concerts gratuits ou payants, selon la programmation."
+}, {
+  "title" : "Croisière des peintres impressionnistes",
+  "shortDescription" : "Partez à la découverte des paysages qui ont inspiré les artistes impressionnistes, sans oublier les histoires et anecdotes de peintres de la Seine.",
+  "address" : "Quai des Martyrs de la Résistance",
+  "zipcode" : "78700",
+  "city" : "Conflans-Sainte-Honorine",
+  "phoneNumber" : "01 34 90 99 09",
+  "webSite" : "https://www.terres-de-seine.fr/decouvrir/bords-seine/croisieres-commentees-seine/",
+  "availabilities" : "29/06/2025, tous les jours de 15h30 à 17h.\n27/07/2025, tous les jours de 15h30 à 17h.\n10/08/2025, tous les jours de 15h30 à 17h.\n07/09/2025, tous les jours de 15h30 à 17h.",
+  "prices" : "Adulte : 17 €\nEnfant : 11 € (de 7 à 11 ans\nGratuit pour les - de 7 ans)."
+}, {
+  "title" : "Championnats du Monde de Badminton 2025",
+  "categories" : [ "Évènements" ],
+  "shortDescription" : "Evénement majeur du Badminton, les championnats du monde se dérouleront à Paris Region cet été pour le plus grand bonheur des passionnés de sport.",
+  "address" : "56 Boulevard Ney",
+  "zipcode" : "75018",
+  "city" : "Paris",
+  "webSite" : "https://www.badmintonparis2025.com/fr/accueil",
+  "availabilities" : "Du lundi 25 au dimanche 31 août 2025."
+} ]
