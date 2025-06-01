@@ -1,18 +1,39 @@
 def execute(req, data):
     results = None
-    match req[0]:
+    match req[0].split('_')[0]:
         case 'SELECT':
             results = select(req, data)
     return results
 
 def select(req, data):
-    fields, table, conditions = req[1], req[2], req[3]
+    request = get_select_req_elements(req)
     res = []
-    for record in data:
-        if meet_conditions(record, conditions):
-            record_res = {field: record.get(field) for field in fields}
+
+    if 'table' in request:
+        if request['table'] not in data:
+            raise ValueError(f"Table '{request['table']}' doesn't exist.")
+        records = data[request['table']]
+    else:
+        records = data
+
+    for record in records:
+        if 'conditions' not in request or meet_conditions(record, request['conditions']):
+            record_res = {field: record.get(field) for field in request['fields']}
             res.append(record_res)
 
+    return res
+
+def get_select_req_elements(req):
+    res = dict()
+    match req[0]:
+        case 'SELECT_FROM':
+            res = {'fields' : req[1], 'table' : req[2], 'conditions' : req[3]}
+        case 'SELECT_ALL_FROM':
+            res = {'fields' : req[1], 'table' : req[2]}
+        case 'SELECT':
+            res = {'fields' : req[1], 'conditions' : req[2]}
+        case 'SELECT_ALL':
+            res = {'fields' : req[1]}
     return res
 
 def meet_conditions(record, conditions):

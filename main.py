@@ -16,10 +16,9 @@ query = args[1]
 print("Request:", query)
 
 res = parser.parse(query)
+print("Result:", res)
 
 if res:
-    print("Result:", res)
-
     fp = open("test-data.json", encoding="utf-8")
     data = json.load(fp)
     fp.close()

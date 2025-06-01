@@ -3,8 +3,27 @@ from lexer import tokens
 
 # Query format definition
 def p_query(p):
-    """query : SELECT field_list FROM IDENTIFIER WHERE or_condition_list"""
-    p[0] = ('SELECT', p[2], p[4], p[6])
+    """query : select_query"""
+    p[0] = p[1]
+
+# Select query formats definition
+def p_select_query(p):
+    """select_query : SELECT field_list FROM IDENTIFIER WHERE or_condition_list
+                    | SELECT field_list FROM IDENTIFIER
+                    | SELECT field_list WHERE or_condition_list
+                    | SELECT field_list"""
+    if len(p) == 7:
+        # SELECT field FROM TABLE WHERE field = value
+        p[0] = ('SELECT_FROM', p[2], p[4], p[6])
+    elif len(p) == 5 and p[3] == 'FROM':
+        # SELECT field FROM TABLE
+        p[0] = ('SELECT_ALL_FROM', p[2], p[4])
+    elif len(p) == 5 and p[3] == 'WHERE':
+        # SELECT field WHERE field = value
+        p[0] = ('SELECT', p[2], p[4])
+    elif len(p) == 3:
+        # SELECT field
+        p[0] = ('SELECT_ALL', p[2])
 
 # Value format definition
 def p_value(p):
@@ -52,16 +71,7 @@ def p_field_list(p):
         p[0] = [p[1]]
     else:
         p[0] = p[1] + [p[3]]
-'''
-def p_condition_list(p):
-    """condition_list : condition
-                      | condition_list AND condition
-                      | condition_list OR condition"""
-    if len(p) == 2:
-        p[0] = [p[1]]
-    else:
-        p[0] = p[1] + [p[3]]
-'''
+
 def p_and_condition_list(p):
     """and_condition_list : condition
                           | and_condition_list AND condition"""
