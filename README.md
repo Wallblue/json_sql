@@ -46,3 +46,24 @@ main.py [Votre requête]
 ```
 
 Vous pouvez également créer un alias sur le fichier main.py pour l'utiliser plus intuitivement.
+
+Par exemple :
+
+```bash
+main.py "SELECT title FROM city = 'Fontainebleau'"
+```
+
+Cette commande fonctionnerait pour un fichier qui ressemble à :
+
+```json
+[
+  {
+    "title": "La maison duchesse",
+    "city": "Fontainebleau"
+  },
+  {
+    "title": "Le Bourget",
+    "city": "Paris"
+  }
+]
+```
