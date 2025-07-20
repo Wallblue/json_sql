@@ -67,3 +67,5 @@ Cette commande fonctionnerait pour un fichier qui ressemble à :
   }
 ]
 ```
+
+Les résultats de la requête sont envoyés dans un fichier `save.json` à la racine du projet.
